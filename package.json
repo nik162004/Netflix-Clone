@@ -1,5 +1,6 @@
 {
-  "name": "netflix",
+  "name": "netflix-clone",
+  "homepage": "https://nik162004.github.io/Netflix-Clone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
